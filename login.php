@@ -6,4 +6,6 @@
 function add($a, $b){
     return $a + $b;
 }
+
+// Khong la gi ca, chi them vai dong comment
 ?>
