@@ -7,5 +7,9 @@ function add($a, $b){
     return $a + $b;
 }
 
+function getInt($a){
+    return intval($a);
+}
+
 // Khong la gi ca, chi them vai dong comment
 ?>
